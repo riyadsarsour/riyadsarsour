@@ -26,9 +26,11 @@ I am currently seeking an opportunities to further my experience in the fields o
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=LakersBot)](https://github.com/riyadsarsour/LakersBot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=sarsourShell)](https://github.com/riyadsarsour/sarsourShell)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=sushiGame)](https://github.com/riyadsarsour/sushiGame)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=mockTwitter)](https://github.com/riyadsarsour/mockTwitter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=mockGitCLI)](https://github.com/riyadsarsour/mockGitCLI)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=Quatroah)](hhttps://github.com/riyadsarsour/Quatroah)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=babyJarvis)](https://github.com/riyadsarsour/babyJarvis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=mockTwitter)](https://github.com/riyadsarsour/mockTwitter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=mock2048)](https://github.com/riyadsarsour/mock2048)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=Quatroah)](https://github.com/riyadsarsour/Quatroah)
 
 ##### README  Powered By anuraghazra github-readme-stats repo
 
