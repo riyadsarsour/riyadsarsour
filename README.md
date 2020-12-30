@@ -22,8 +22,7 @@ I am currently seeking an opportunities to further my experience in the fields o
 - 📫 How to reach me: riyadsarsour@live.com
 
 ## Pinned Repos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=studentRegistry)](https://github.com/riyadsarsour/studentRegistry)         
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=mockTwitter)](https://github.com/riyadsarsour/mockTwitter)   
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&card_width=100&theme=react&repo=studentRegistry)](https://github.com/riyadsarsour/studentRegistry)       [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=mockTwitter)](https://github.com/riyadsarsour/mockTwitter)   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=sarsourShell)](https://github.com/riyadsarsour/sarsourShell)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=sushiGame)](https://github.com/riyadsarsour/sushiGame)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=LakersBot)](https://github.com/riyadsarsour/LakersBot)  
