@@ -33,8 +33,7 @@ I am currently seeking an opportunities to further my experience in the fields o
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=texterdexter)](https://github.com/riyadsarsour/texterdexter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=Quatroah)](https://github.com/riyadsarsour/Quatroah)
 
-##### README  Powered By anuraghazra github-readme-stats repo
-
+##### README  Powered By anuraghazra github-readme-stats repo(https://github.com/anuraghazra/github-readme-stats)
 
 
 
