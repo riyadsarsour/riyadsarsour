@@ -10,7 +10,7 @@ I am currently seeking an opportunities to further my experience in the fields o
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyadsarsour&layout=compact&langs_count=10&theme=prussian)](https://github.com/riyadsarsour/github-readme-stats) ![Riyad's github stats](https://github-readme-stats.vercel.app/api?username=riyadsarsour&show_icons=true&theme=prussian)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyadsarsour&layout=compact&langs_count=10&theme=nightowl)]     (https://github.com/riyadsarsour/github-readme-stats) ![Riyad's github stats](https://github-readme-stats.vercel.app/api?username=riyadsarsour&show_icons=true&theme=prussian)
 
 
 
