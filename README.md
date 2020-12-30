@@ -10,7 +10,10 @@ I enjoy learning how people interact with technology in the vast ways that they 
 I am currently seeking an opportunities to further my experience in the fields of software engineering, product management, or business intelligence/AI. Furthermore, I aim to gain further knowledge on developing impactful human-technology interactions. 
 
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyadsarsour&layout=compact&langs_count=10&theme=nightowl)](https://github.com/riyadsarsour/github-readme-stats)     ![Riyad's github stats](https://github-readme-stats.vercel.app/api?username=riyadsarsour&show_icons=true&theme=nightowl)
+
 
 
 
@@ -21,6 +24,8 @@ I am currently seeking an opportunities to further my experience in the fields o
 - 🤔 I’m looking for help expanding knowledge in full-stack development
 - 💬 Ask me about product development
 - 📫 How to reach me: riyadsarsour@live.com
+
+
 
 ## Pinned Repos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=studentRegistry)](https://github.com/riyadsarsour/studentRegistry)
@@ -33,6 +38,8 @@ I am currently seeking an opportunities to further my experience in the fields o
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=mock2048)](https://github.com/riyadsarsour/mock2048)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=texterdexter)](https://github.com/riyadsarsour/texterdexter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=Quatroah)](https://github.com/riyadsarsour/Quatroah)
+
+
 
 ##### README  Powered By anuraghazra github-readme-stats repo(https://github.com/anuraghazra/github-readme-stats)
 
