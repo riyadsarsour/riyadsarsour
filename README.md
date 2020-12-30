@@ -22,7 +22,7 @@ I am currently seeking an opportunities to further my experience in the fields o
 - 📫 How to reach me: riyadsarsour@live.com
 
 ## Pinned Repos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=great_gatsby&repo=studentRegistry)](https://github.com/riyadsarsour/studentRegistry)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=studentRegistry)](https://github.com/riyadsarsour/studentRegistry)
 
 
 ##### README  Powered By anuraghazra github-readme-stats repo
