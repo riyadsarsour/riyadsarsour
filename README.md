@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyadsarsour&layout=compact)](https://github.com/riyadsarsour/github-readme-stats)
 
 ![Riyad's github stats](https://github-readme-stats.vercel.app/api?username=riyadsarsour&show_icons=true&theme=great-gatsby)
 
@@ -8,6 +9,8 @@
 
 
 
+
+##### README  Powered By anuraghazra github-readme-stats repo
 
 
 
