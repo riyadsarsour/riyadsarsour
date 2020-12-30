@@ -9,7 +9,7 @@ I enjoy learning how people interact with technology in the vast ways that they 
 I am currently seeking an opportunities to further my experience in the fields of software engineering, product management, or business intelligence/AI. Furthermore, I aim to gain further knowledge on developing impactful human-technology interactions. 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyadsarsour&lang_count=10&theme=nightowl)](https://github.com/riyadsarsour/github-readme-stats)     ![Riyad's github stats](https://github-readme-stats.vercel.app/api?username=riyadsarsour&show_icons=true&theme=prussian)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyadsarsour&layout=compact&lang_count=10&theme=nightowl)](https://github.com/riyadsarsour/github-readme-stats)     ![Riyad's github stats](https://github-readme-stats.vercel.app/api?username=riyadsarsour&show_icons=true&theme=prussian)
 
 
 
