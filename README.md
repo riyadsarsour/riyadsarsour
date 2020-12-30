@@ -1,7 +1,8 @@
-### Hi there 👋 (switch to dark mode)
+## Hi there 👋 
+###### (switch to dark mode)
 
 
-### About Riyad 
+## About Riyad 
 I am a senior at The University of North Carolina at Chapel Hill, pursuing a Bachelor’s of Science in Computer Science. 
 My experiences include entry level software development,technical product management, and marketing.
 
