@@ -1,4 +1,4 @@
-### Hi there 👋 #### (switch to dark mode)
+### Hi there 👋 (switch to dark mode)
 
 
 ### About Riyad 
