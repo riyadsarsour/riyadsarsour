@@ -22,7 +22,6 @@ I am currently seeking an opportunities to further my experience in the fields o
 
 - 🔭 I’m currently working on enhancing my programming skills
 - 🌱 I’m currently learning React, Java Spring Framework, Clojure and Reagent framework
-- 👯 I’m looking to collaborate on anything fun!
 - 🤔 I’m looking for help expanding knowledge in full-stack development
 - 💬 Ask me about product development
 - 📫 How to reach me: riyadsarsour@live.com
