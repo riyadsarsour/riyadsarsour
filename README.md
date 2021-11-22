@@ -3,8 +3,8 @@
 
 
 ## About Riyad 
-I am an Alum of The University of North Carolina at Chapel Hill, pursuing a Bachelor’s of Science in Computer Science. 
-My experiences include entry level software engineering, product management, and marketing.
+I am an Alum of The University of North Carolina at Chapel Hill. I completed my Bachelor’s of Science in Computer Science with a minor in Statistics and Analytics. 
+My experiences include entry level software engineering and product management.
 
 I enjoy learning how people interact with technology in the vast ways that they do.
 
