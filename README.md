@@ -1,6 +1,4 @@
 ## Hi there 👋 
-###### (switch to dark mode)
-
 
 ## About Riyad 
 I am an Alum of The University of North Carolina at Chapel Hill. I completed my Bachelor’s of Science in Computer Science with a minor in Statistics and Analytics. 
