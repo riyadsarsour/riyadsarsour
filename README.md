@@ -27,7 +27,7 @@ I am currently seeking an opportunities to further my experience in the fields o
 
 
 ## Pinned Repos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=studentRegistry)](https://github.com/riyadsarsour/studentRegistry)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=go-filestore)](https://github.com/riyadsarsour/go-filestore)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=LakersBot)](https://github.com/riyadsarsour/LakersBot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=sarsourShell)](https://github.com/riyadsarsour/sarsourShell)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyadsarsour&theme=react&repo=sushiGame)](https://github.com/riyadsarsour/sushiGame)
