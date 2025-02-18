@@ -2,12 +2,9 @@
 
 ## About Riyad 
 I am an Alum of The University of North Carolina at Chapel Hill. I completed my Bachelor’s of Science in Computer Science with a minor in Statistics and Analytics. 
-My experiences include entry level software engineering and product management.
+My experiences include software engineering and product management. Entrepreneur in beta, tinkering with ideas on nights and weekends. 
 
-I enjoy learning how people interact with technology in the vast ways that they do.
-
-I am currently seeking an opportunities to further my experience in the fields of software engineering, product management, or business intelligence/AI. Furthermore, I aim to gain further knowledge on developing impactful human-technology interactions. 
-
+I aim to gain further knowledge on developing impactful human-technology interactions. 
 
 ## GitHub Overview
 
@@ -18,9 +15,9 @@ I am currently seeking an opportunities to further my experience in the fields o
 
 
 
-- 🔭 I’m currently working on enhancing my programming skills
-- 🌱 I’m currently learning React, Java Spring Framework, Clojure and Reagent framework
-- 🤔 I’m looking for help expanding knowledge in full-stack development
+- 🔭 I’m currently working on enhancing my AI/ML skills
+- 🌱 I’m currently learning Golang, ML patterns
+- 🤔 I’m looking for help expanding knowledge in ML Development
 - 💬 Ask me about product development
 - 📫 How to reach me: riyadsarsour@live.com
 
@@ -41,20 +38,3 @@ I am currently seeking an opportunities to further my experience in the fields o
 
 
 ##### README  Powered By anuraghazra github-readme-stats repo(https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
