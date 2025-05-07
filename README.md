@@ -8,12 +8,11 @@ I aim to gain further knowledge on developing impactful human-technology interac
 
 ## GitHub Overview
 
+<!-- GitHub Stats Card (with private contributions) -->
+[![riyadsarsour’s GitHub stats](https://github-readme-stats-smw3-riyad-s-projects-59b508c2.vercel.app/api?username=riyadsarsour&count_private=true&show_icons=true&theme=nightowl)](https://github.com/riyadsarsour)
 
-[![Top Langs](https://[github-readme-stats.vercel.app](https://github-readme-stats-smw3-riyad-s-projects-59b508c2.vercel.app)/api/top-langs/?username=riyadsarsour&layout=compact&langs_count=10&theme=nightowl)](https://github.com/riyadsarsour/github-readme-stats)     
-![Riyad's github stats](https://github-readme-stats-smw3-riyad-s-projects-59b508c2.vercel.app/api?username=riyadsarsour&show_icons=true&theme=nightowl)
-
-
-
+<!-- Top Languages Card (compact layout) -->
+[![Top Langs](https://github-readme-stats-smw3-riyad-s-projects-59b508c2.vercel.app/api/top-langs/?username=riyadsarsour&layout=compact&theme=nightowl)](https://github.com/riyadsarsour)
 
 
 - 🔭 I’m currently working on enhancing my AI/ML skills
