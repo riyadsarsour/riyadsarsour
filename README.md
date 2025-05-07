@@ -9,8 +9,8 @@ I aim to gain further knowledge on developing impactful human-technology interac
 ## GitHub Overview
 
 
-[![Top Langs](https://[github-readme-stats.vercel.app](https://readme-stats-omega-weld.vercel.app)/api/top-langs/?username=riyadsarsour&layout=compact&langs_count=10&theme=nightowl)](https://github.com/riyadsarsour/github-readme-stats)     
-![Riyad's github stats](https://readme-stats-omega-weld.vercel.app/api?username=riyadsarsour&show_icons=true&theme=nightowl)
+[![Top Langs](https://[github-readme-stats.vercel.app](https://github-readme-stats-smw3-riyad-s-projects-59b508c2.vercel.app)/api/top-langs/?username=riyadsarsour&layout=compact&langs_count=10&theme=nightowl)](https://github.com/riyadsarsour/github-readme-stats)     
+![Riyad's github stats](https://github-readme-stats-smw3-riyad-s-projects-59b508c2.vercel.app/api?username=riyadsarsour&show_icons=true&theme=nightowl)
 
 
 
