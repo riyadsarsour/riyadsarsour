@@ -1,9 +1,9 @@
 ## Hi there 👋 
 
 ## About Riyad 
-I am an Alum of The University of North Carolina at Chapel Hill. I completed my Bachelor’s of Science in Computer Science with a minor in Statistics and Analytics. 
-My experiences include software engineering and product management. Entrepreneur in beta, tinkering with ideas on nights and weekends. 
-
+Builder/Entrepreneur in beta, tinkering with ideas on nights and weekends. 
+Alum of The University of North Carolina at Chapel Hill. I completed my Bachelor’s of Science in Computer Science with a minor in Statistics and Analytics. 
+My experiences include software engineering and product management. 
 I aim to gain further knowledge on developing impactful human-technology interactions. 
 
 ## GitHub Overview
@@ -16,8 +16,8 @@ I aim to gain further knowledge on developing impactful human-technology interac
 
 
 - 🔭 I’m currently working on enhancing my AI/ML skills
-- 🌱 I’m currently learning Golang, ML patterns
-- 🤔 I’m looking for help expanding knowledge in ML Development
+- 🌱 I’m currently learning Golang, AI tooling(LangGraph, LangChain, etc) AI/ML models
+- 🤔 Expanding knowledge in ML Development
 - 💬 Ask me about product development
 - 📫 How to reach me: riyadsarsour@live.com
 
